@@ -1,4 +1,4 @@
-# Stable Diffusion 2 Image Generation
+# Stable Diffusion Inference
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow.svg)](https://huggingface.co/)
